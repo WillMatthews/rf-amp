@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name inductor)(type KiCad)(uri ${KIPRJMOD}/inductor.pretty)(options "")(descr ""))
+)
